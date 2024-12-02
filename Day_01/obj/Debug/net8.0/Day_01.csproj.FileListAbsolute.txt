@@ -1,0 +1,14 @@
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\bin\Debug\net8.0\Day_01.exe
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\bin\Debug\net8.0\Day_01.deps.json
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\bin\Debug\net8.0\Day_01.runtimeconfig.json
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\bin\Debug\net8.0\Day_01.dll
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\bin\Debug\net8.0\Day_01.pdb
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.AssemblyInfoInputs.cache
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.AssemblyInfo.cs
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.dll
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\refint\Day_01.dll
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.pdb
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\Day_01.genruntimeconfig.cache
+C:\Users\Patryk\Documents\VS\Advent_Of_Code_2024\Advent_Of_Code_2024\Day_01\obj\Debug\net8.0\ref\Day_01.dll
